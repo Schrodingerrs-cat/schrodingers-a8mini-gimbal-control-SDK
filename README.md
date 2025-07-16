@@ -1,4 +1,4 @@
-# schrodingers-a8mini-gimbal-control
+# Schrodingers-a8mini-gimbal-control
 
 - Code for SIYI's A8 mini Gimbal Camera. Allows yaw/pitch control, as well as Auto Center, Zoom, etc.
 
