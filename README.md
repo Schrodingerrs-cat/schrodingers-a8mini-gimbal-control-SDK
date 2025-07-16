@@ -1,3 +1,21 @@
+## Author
+
+**Aryan Shah**  
+Email: [work.aryanshah16@gmail.com](mailto:work.aryanshah16@gmail.com)
+
+## License
+
+This project incorporates multiple licenses depending on the component:
+- **MIT License** – Primary license for this project's source code.  
+- **Apache License 2.0** – For third-party libraries as noted in the dependencies.  
+- **GNU General Public License v3.0 (GPL-3.0)** – For certain open-source modules used in the project.  
+- **Creative Commons Attribution 4.0 International (CC BY 4.0)** – For media assets and documentation content as specified.
+
+## Copyright
+
+&copy; 2025 Aryan Shah  
+All rights reserved.
+
 # Schrodingers-a8mini-gimbal-control
 
 - Code for SIYI's A8 mini Gimbal Camera. Allows yaw/pitch control, as well as Auto Center, Zoom, etc.
