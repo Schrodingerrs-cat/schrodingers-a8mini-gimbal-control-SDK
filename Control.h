@@ -45,10 +45,8 @@
 #define MIN_CMD_SIZE 10
 #define MAX_CMD_SIZE 13
 
-/*************************************************/
-#define NUM_COMMANDS                27 // update this if more commands are added !
+#define NUM_COMMANDS                27 
 #define MAX_SIZE_CMD_DESCRIPTION    40
-/*************************************************/
 
 int setup();
 void cleanup();
