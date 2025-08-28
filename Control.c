@@ -28,7 +28,7 @@
  */
 
 
-#include "A8miniControl.h"
+#include "Control.h"
 
 int main(int argc, char *argv[]){
 
